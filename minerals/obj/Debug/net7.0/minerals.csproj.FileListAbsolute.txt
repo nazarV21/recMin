@@ -1,0 +1,5 @@
+C:\Users\Nazar\Desktop\VS\minerals\minerals\obj\Debug\net7.0\minerals.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\VS\minerals\minerals\obj\Debug\net7.0\minerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\VS\minerals\minerals\obj\Debug\net7.0\minerals.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\VS\minerals\minerals\obj\Debug\net7.0\minerals.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\VS\minerals\minerals\obj\Debug\net7.0\minerals.csproj.CoreCompileInputs.cache
